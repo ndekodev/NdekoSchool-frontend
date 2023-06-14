@@ -1,3 +1,6 @@
 {
-  "extends": "next/core-web-vitals"
+  "extends": ["next/core-web-vitals"],
+  "rules": {
+    // Ajoutez ici les règles eslint qu'on va supporter
+  }
 }
